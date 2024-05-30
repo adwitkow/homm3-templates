@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HotaToHd": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\\\repos\\\\homm3-templates\\templates E:\\repos\\homm3-templates\\templates\\hd-mod"
+    }
+  }
+}
