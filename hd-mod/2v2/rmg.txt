@@ -1,0 +1,30 @@
+Map			Zone																																																																									Connections									
+				Type					Restrictions				Player towns					Neutral towns					Town types									Minimum mines							Mine Density							Terrain									Monsters												Treasure									Zones		Options			Restrictions			
+Name	Minimum Size	Maximum Size	Id	human start	computer start	Treasure	Junction	Base Size	Minimum human positions	Maximum human positions	Minimum total positions	Maximum total positions	Ownership	Minimum towns	Minimum castles	Town Density	Castle Density	Minimum towns	Minimum castles	Town Density	Castle Density	Towns are of same type	Castle	Rampart	Tower	Inferno	Necropolis	Dungeon	Stronghold	Fortress	Conflux	Wood	Mercury	Ore	Sulfur	Crystal	Gems	Gold	Wood	Mercury	Ore	Sulfur	Crystal	Gems	Gold	Match to town	Dirt	Sand	Grass	Snow	Swamp	Rough	Cave	Lava	Strength	Match to town	Neutral	Castle	Rampart	Tower	Inferno	Necropolis	Dungeon	Stronghold	Fortress	Conflux	Low	High	Density	Low	High	Density	Low	High	Density	Zone 1	Zone 2	Value	Wide	Border Guard	Minimum human positions	Maximum human positions	Minimum total positions	Maximum total positions
+2v2	1	32	1	x				10	1	5	2	5	1		1								x	x	x	x	x	x	x	x	x	1		1												x									avg		x	x	x	x	x	x	x	x	x	x	10000	15000	1	3000	6000	6	500	3000	9	1	7	3000			1	5	2	5	
+			2	x				10	1	5	2	5	2		1								x	x	x	x	x	x	x	x	x	1		1												x									avg		x	x	x	x	x	x	x	x	x	x	10000	15000	1	3000	6000	6	500	3000	9	1	10	10000			1	5	2	5	
+			4	x				10	1	5	2	5	4		1								x	x	x	x	x	x	x	x	x	1		1												x									avg		x	x	x	x	x	x	x	x	x	x	10000	15000	1	3000	6000	6	500	3000	9	1	11	10000			1	5	2	5	
+			5	x				10	1	5	2	5	5		1								x	x	x	x	x	x	x	x	x	1		1												x									avg		x	x	x	x	x	x	x	x	x	x	10000	15000	1	3000	6000	6	500	3000	9	2	14	10000			1	5	2	5	
+			7			x		10	1	5	2	5						1					x	x	x	x	x	x	x	x	x									30		30	20	20			x	x	x	x	x	x	x	x	avg		x	x	x	x	x	x	x	x	x	x	10000	15000	1	3000	6000	6	500	3000	9	2	15	10000			1	5	2	5	
+			10			x		10	1	5	2	5																																			x	x	x	x	x	x	x	x	avg		x	x	x	x	x	x	x	x	x	x	15000	20000	1	10000	15000	6	3000	6000	9	2	28	3000			1	5	2	5	
+			11			x		10	1	5	2	5																																			x	x	x	x	x	x	x	x	avg		x	x	x	x	x	x	x	x	x	x	15000	20000	1	10000	15000	6	3000	6000	9	4	19	10000			1	5	2	5	
+			14			x		10	1	5	2	5																																			x	x	x	x	x	x	x	x	avg		x	x	x	x	x	x	x	x	x	x	15000	20000	1	10000	15000	6	3000	6000	9	4	24	10000			1	5	2	5	
+			15			x		10	1	5	2	5																																			x	x	x	x	x	x	x	x	avg		x	x	x	x	x	x	x	x	x	x	15000	20000	1	10000	15000	6	3000	6000	9	4	26	3000			1	5	2	5	
+			16			x		10	1	5	2	5						1					x	x	x	x	x	x	x	x	x								1	1	1	1	1	1	1		x	x	x	x	x	x	x	x	avg		x	x	x	x	x	x	x	x	x	x	20000	30000	1	15000	20000	6	10000	15000	9	5	21	10000			1	5	2	5	
+			17			x		10	1	5	2	5						1					x	x	x	x	x	x	x	x	x								1	1	1	1	1	1	1		x	x	x	x	x	x	x	x	avg		x	x	x	x	x	x	x	x	x	x	20000	30000	1	15000	20000	6	10000	15000	9	5	23	10000			1	5	2	5	
+			19			x		10	1	5	2	5																																			x	x	x	x	x	x	x	x	avg		x	x	x	x	x	x	x	x	x	x	15000	20000	1	10000	15000	6	3000	6000	9	5	25	3000			1	5	2	5	
+			21			x		10	1	5	2	5																																			x	x	x	x	x	x	x	x	avg		x	x	x	x	x	x	x	x	x	x	15000	20000	1	10000	15000	6	3000	6000	9	10	11	10000			1	5	2	5	
+			23			x		10	1	5	2	5																																			x	x	x	x	x	x	x	x	avg		x	x	x	x	x	x	x	x	x	x	15000	20000	1	10000	15000	6	3000	6000	9	10	16	20000			1	5	2	5	
+			24			x		10	1	5	2	5																																			x	x	x	x	x	x	x	x	avg		x	x	x	x	x	x	x	x	x	x	15000	20000	1	10000	15000	6	3000	6000	9	11	14	20000			1	5	2	5	
+			25			x		10	1	5	2	5						1					x	x	x	x	x	x	x	x	x									30		30	20	20			x	x	x	x	x	x	x	x	avg		x	x	x	x	x	x	x	x	x	x	10000	15000	1	3000	6000	6	500	3000	9	11	16	20000			1	5	2	5	
+			26			x		10	1	5	2	5						1					x	x	x	x	x	x	x	x	x									30		30	20	20			x	x	x	x	x	x	x	x	avg		x	x	x	x	x	x	x	x	x	x	10000	15000	1	3000	6000	6	500	3000	9	14	15	10000			1	5	2	5	
+			28			x		10	1	5	2	5						1					x	x	x	x	x	x	x	x	x									30		30	20	20			x	x	x	x	x	x	x	x	avg		x	x	x	x	x	x	x	x	x	x	10000	15000	1	3000	6000	6	500	3000	9	14	17	20000			1	5	2	5	
+																																																																												15	17	20000			1	5	2	5	
+																																																																												16	17	30000			1	5	2	5	
+																																																																												16	19	20000			1	5	2	5	
+																																																																												16	24	20000			1	5	2	5	
+																																																																												17	21	20000			1	5	2	5	
+																																																																												17	23	20000			1	5	2	5	
+																																																																												19	23	20000			1	5	2	5	
+																																																																												19	24	10000			1	5	2	5	
+																																																																												21	23	10000			1	5	2	5	
